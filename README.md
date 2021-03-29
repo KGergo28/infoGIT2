@@ -3,5 +3,5 @@
 
 H1
 ======
-**Alma lesz** ´Kódszerű´ ´´Kódszerű´´
+**Alma lesz** 'Kódszerű' ''Kódszerű''
 felhőben git repo létrehozása
